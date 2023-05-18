@@ -7,7 +7,7 @@
 }
 
 .formWrapper {
-  background: #282a36;
+  background: #002141;
   padding: 20px;
   border-radius: 10px;
   width: 400px;
@@ -15,6 +15,7 @@
 }
 
 footer {
+  color: #002141;
   position: fixed;
   bottom: 0;
 }
