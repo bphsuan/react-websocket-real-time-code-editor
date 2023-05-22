@@ -18,7 +18,7 @@
 
 ## 執行
 
-請在終端機各別進入 server, client 資料夾後分開執行
+請在終端機各別進入 server, client 資料夾後分開執行專案
 
 ```cmd
 npm i && npm run start
